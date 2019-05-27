@@ -15,3 +15,4 @@ rs-client/local.properties
 rs-client/app/local.properties
 
 
+rs-client/app/proguard-rules.pro
