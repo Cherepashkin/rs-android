@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#ffc107</color>
+
+    <color name="main_activity_background">#222222</color>
+
+    <color name="civ_border_color">#FFFFFF</color>
+    <color name="text_color">#555555</color>
+</resources>
