@@ -1,0 +1,8 @@
+
+rs-client/.gradle
+rs-client/.idea
+rs-client/app/.idea
+rs-client/app/build
+rs-client/app/proguard-rules.pro
+rs-client/app/local.properties
+rs-client/local.properties
