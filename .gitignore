@@ -1,0 +1,17 @@
+
+### Github Android.gitignore ### 
+rs-client/.idea
+rs-client/.gradle
+rs-client/*.iml
+rs-client/app/.idea
+rs-client/app/build
+rs-client/app/*.iml
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+rs-client/local.properties
+rs-client/app/local.properties
+
+
